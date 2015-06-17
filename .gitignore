@@ -7,8 +7,13 @@
 
 # RStudio files
 .Rproj.user/
+.Rbuildignore
 
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
 .Rproj.user
+
+# Object files
+*.o
+*.dll
